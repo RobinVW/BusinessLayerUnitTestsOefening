@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30615.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayerUnitTestsOefening", "BusinessLayerUnitTestsOefening\BusinessLayerUnitTestsOefening.csproj", "{B3D378AA-EEF4-4162-B1B7-977098E8BBDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayerUnitTestsOefeningTests", "BusinessLayerUnitTestsOefeningTests\BusinessLayerUnitTestsOefeningTests.csproj", "{2B7D002D-C640-4C2D-91CB-F9CAD6CF6E8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3D378AA-EEF4-4162-B1B7-977098E8BBDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D378AA-EEF4-4162-B1B7-977098E8BBDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D378AA-EEF4-4162-B1B7-977098E8BBDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D378AA-EEF4-4162-B1B7-977098E8BBDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B7D002D-C640-4C2D-91CB-F9CAD6CF6E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B7D002D-C640-4C2D-91CB-F9CAD6CF6E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B7D002D-C640-4C2D-91CB-F9CAD6CF6E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B7D002D-C640-4C2D-91CB-F9CAD6CF6E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD497D98-E835-47D4-8BC1-EC3528602EBB}
+	EndGlobalSection
+EndGlobal
